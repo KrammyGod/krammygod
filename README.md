@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krammygod&layout=compact&theme=radical)](https://github.com/krammygod?tab=repositories)
 
-### Check out 
+### Check out these projects!
 <a href="https://github.com/krammygod/krammygod">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krammygod&repo=krammygod&show_owner=true&theme=radical" />
 </a>
