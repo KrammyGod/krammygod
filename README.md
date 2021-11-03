@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Krammy's GitHub stats](https://github-readme-stats.vercel.app/api?username=krammygod&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Krammy's GitHub stats](https://github-readme-stats.vercel.app/api?username=krammygod&theme=radical)](https://github.com/krammygod/krammygod)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krammygod&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krammygod&layout=compact&theme=radical)](https://github.com/krammygod?tab=repositories)
 
+### Check out 
 <a href="https://github.com/krammygod/krammygod">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krammygod&repo=krammygod&show_owner=true&theme=radical" />
 </a>
