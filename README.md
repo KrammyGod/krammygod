@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 <a href="https://github.com/krammygod/hoops">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krammygod&repo=hoops&show_owner=true&theme=radical" />
 </a>
-<a href="https://github.com/krammygod/DiscordPingBot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krammygod&repo=DiscordPingBot&show_owner=true&theme=radical" />
+<a href="https://github.com/krammygod/pingbot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krammygod&repo=pingbot&show_owner=true&theme=radical" />
 </a>
-<a href="https://github.com/krammygod/AirplaneDefense">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krammygod&repo=AirplaneDefense&show_owner=true&theme=radical" />
+<a href="https://github.com/krammygod/twitter-scraper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krammygod&repo=twitter-scraper&show_owner=true&theme=radical" />
 </a>
-<a href="https://github.com/krammygod/MAL-Importer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krammygod&repo=MAL-Importer&show_owner=true&theme=radical" />
+<a href="https://github.com/krammygod/deployment-reload-server">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krammygod&repo=deployment-reload-server&show_owner=true&theme=radical" />
 </a>
